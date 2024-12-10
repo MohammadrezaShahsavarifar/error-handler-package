@@ -1,6 +1,6 @@
 {
   "name": "error-handler-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for handling errors in Node.js applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
     "nodejs",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "Mohammadreza Shahsavarifar",
   "license": "MIT",
   "devDependencies": {
     "@types/express": "^5.0.0",
